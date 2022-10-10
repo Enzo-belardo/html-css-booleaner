@@ -36,3 +36,18 @@
 .parag-foot{
     color:grey;
 }
+
+.firstimage-foot{
+    background-image: url(./img/monitor.jpg);
+    width: 300px;
+    height: 250px;
+    color: white; 
+    text-align: center;
+}
+.secondimage-foot{
+    background-image: url(./img/graph.jpg);
+    width: 300px;
+    height: 250px;
+    color: white; 
+    text-align: center;
+}
