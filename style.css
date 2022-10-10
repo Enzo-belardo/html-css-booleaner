@@ -8,9 +8,26 @@
 .logo{
  width: 250px;
 }
+.link{
+    text-decoration: none;
+}
 .title{
     font-size: 3em;
 }
 .evidenziato{
     background-color: yellow;
+}
+
+.main-table{
+    width: 100%;
+}
+.head-table{
+    background-color: rgb(16, 145, 231);
+}
+.body-table{
+    background-color:lightblue;
+
+}
+.parag-foot{
+    color:grey;
 }
